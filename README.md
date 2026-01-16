@@ -1,7 +1,7 @@
 # Collaborative-Construction-Robot-Samsung-PRISM
 Developed a robotic construction framework where two 4-DOF robotic arms autonomously assembled a 3×3 block grid, demonstrating automation in construction tasks. • Implemented synchronization strategies using Arduino Uno and Raspberry Pi, achieving over 80% block placement accuracy during autonomous 3×3 grid trials.
 
-![Project Demo](Media/demo_assembly.gif) 
+![Project Demo](Media/demo_assembly.mp4) 
 
 ## Project Overview
 Developed as part of the Samsung PRISM program (July 2024 – December 2024), this project features a dual-arm robotic system designed to automate construction tasks. The core challenge involved synchronizing two 4-DOF robotic arms to assemble a 3x3 grid with high precision and collision avoidance.
